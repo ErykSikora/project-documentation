@@ -1,4 +1,4 @@
-# Projects Documentation
+# Project Documentation
 
 ## Description
 The tool allows creating documentation for many projects
